@@ -1,6 +1,6 @@
 ​---
 ​layout​: ​slide​
-​title​: ​"​Welcome to our second slide!​"​
----
-​Your text​
-​Use the left arrow to go back!
+​title​: ​"​Welcome to DoPeTMySTiC second slide!​"​
+-----MusiC is LiFe 
+LoVe LighT and DarKnesS
+​
